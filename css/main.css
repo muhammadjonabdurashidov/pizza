@@ -9,3 +9,8 @@
 .list1 {
   height: 30px;
 }
+
+.label__title {
+  margin-top: 50px;
+  margin-bottom: -30px;
+}
